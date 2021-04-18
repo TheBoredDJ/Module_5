@@ -1,0 +1,58 @@
+
+
+ h1{
+    color: black;
+    text-align: center; }
+
+
+#first {color: red; }
+    
+
+#second{color: blue; } 
+
+
+ 
+
+#third {color: rgba(14, 187, 14, 0.829) }
+
+ 
+#forth {font-size: 300%; color: black; }
+
+#fifth {font-size: smaller; color: black; }
+ 
+#sixth {
+  color: black;
+    text-align: center; }
+
+#Seventh {
+    font-weight: bold; color: black; }
+
+#eighth {font-family: Arial, Helvetica, sans-serif; color: black;}
+
+#ninth { font-weight: bold;
+color: orange;
+font-size: 150%;}
+
+p.green {color: rgb(0, 230, 0); font-family: Arial, Helvetica, sans-serif;}
+p.blue {color: rgb(0, 230, 0); font-family: Arial, Helvetica, sans-serif;}
+p.yellow {color: rgb(0, 230, 0); font-family: Arial, Helvetica, sans-serif;}
+p.orange {color: rgb(0, 230, 0); font-family: Helvetica, sans-serif;}
+p.apple {color: rgb(0, 230, 0); font-family: Helvetica, sans-serif;}
+p.carrots {color: rgb(0, 230, 0); font-family: Helvetica, sans-serif;}
+
+
+
+#styledImage {border-color: yellow;
+border-width: 10px;
+border-style: solid; }
+
+
+
+
+
+#tenth {color: black;}
+
+
+
+
+
